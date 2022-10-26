@@ -1,1 +1,1 @@
-# Projects made in c++ programming language
+# Projects made in C++ programming language
